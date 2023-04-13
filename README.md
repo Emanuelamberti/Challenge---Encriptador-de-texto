@@ -11,6 +11,7 @@ In this first challenge I was entrusted to make a text encrypter using my knowle
 <li>JavaScript</li>
 
 It had to contain images and colors previously defined by the ONE platform, and had to follow the following principles:
+
 <ul>
     <li>The letter "a" must be replaced by "ai"</li>
     <li>The letter "e" must be replaced by "enter"</li>
@@ -44,8 +45,8 @@ Javascript, HTML, CSS.
 | Color 4 | ![#FFFFFF](https://via.placeholder.com/10/00b48a?text=+) #FFFFFF |
 
 
-## 🔗 Links
-[encriptador-de-texto]()
+## 🔗 Link to see the project
+[encriptador-de-texto](https://emanuelamberti.github.io/Challenge---Encriptador-de-texto/)
 
 
 ## Authors
